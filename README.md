@@ -1,1 +1,1 @@
-# Pyhton-Challenges
+# Python-Challenges
